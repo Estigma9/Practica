@@ -1,7 +1,12 @@
 
 
 nav{
-    background: greenyellow;
+    height: 60px;
+    background: black;
+ 
 }
 
+a{
+    color: beige;
+}
 
